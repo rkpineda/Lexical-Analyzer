@@ -25,7 +25,7 @@ namespace Improved_Lexical_Analyzer
                     Console.WriteLine();
                 }
             }
-            else Console.WriteLine($"File not found: {Path.GetFullPath(filePath)}"); // FIX: don't exit silently
+            else Console.WriteLine($"File not found: {Path.GetFullPath(filePath)}");
 
         }
 
