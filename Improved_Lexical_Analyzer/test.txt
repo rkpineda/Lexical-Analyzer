@@ -1,0 +1,25 @@
+int x = 10;
+float pi = 3.14;
+string name = "hello world";
+c = 'a';
+bool done = false;
+if (x >= 5 and not done) { return true; }
+while (i <= 10) { i++; j--; }
+for (k = 0; k < 3; k += 1) print(k);
+x += 1; y -= 2; z *= 3; w /= 4; m %= 5; e **= 2; f //= 3;
+a ** b // c
+a <=> b => c != d == e ! f
+a=-b
+a+b*c-d/e%f
+abc1 x2 _under __init__ value_2
+3abc 1.2.3 3. 007 12.50
+@ $ x.y #tag
+"unterminated string
+'ab' '' 'x
+"esc\"aped" '\'' '"'
+";" "a;b" "(not a paren)"
+arr[0]=1;{ }
+(a+b)*(c-d);
+print(a, b)
+else void
+
